@@ -1,0 +1,45 @@
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.runtimeconfig.json
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\refint\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.genruntimeconfig.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersi 2\console dersi 2\obj\Debug\net6.0\ref\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.runtimeconfig.json
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\refint\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.genruntimeconfig.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\ref\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.deps.json
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.runtimeconfig.json
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\bin\Debug\net6.0\console dersi 2.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.AssemblyInfoInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.AssemblyInfo.cs
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\refint\console dersi 2.dll
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\console dersi 2.genruntimeconfig.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 2\console dersi 2\obj\Debug\net6.0\ref\console dersi 2.dll

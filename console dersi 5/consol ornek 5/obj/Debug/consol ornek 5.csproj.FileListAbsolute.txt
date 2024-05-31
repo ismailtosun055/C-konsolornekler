@@ -1,0 +1,16 @@
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\bin\Debug\consol ornek 5.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\bin\Debug\consol ornek 5.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\bin\Debug\consol ornek 5.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\bin\Debug\consol ornek 5.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\bin\Debug\consol ornek 5.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\bin\Debug\consol ornek 5.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 5\consol ornek 5\obj\Debug\consol ornek 5.pdb

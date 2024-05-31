@@ -1,0 +1,24 @@
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\bin\Debug\consol dersi3.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\bin\Debug\consol dersi3.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\bin\Debug\consol dersi3.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\obj\Debug\consol dersi3.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\obj\Debug\consol dersi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\obj\Debug\consol dersi3.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\obj\Debug\consol dersi3.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\consol dersi3\consol dersi3\obj\Debug\consol dersi3.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.pdb
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\bin\Debug\consol dersi3.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\bin\Debug\consol dersi3.exe
+C:\Users\ismai\OneDrive\Masaüstü\C#\console dersleri\console dersi 3\consol dersi3\bin\Debug\consol dersi3.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\bin\Debug\consol dersi3.exe.config
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\bin\Debug\consol dersi3.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\bin\Debug\consol dersi3.pdb
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.csproj.AssemblyReference.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.csproj.CoreCompileInputs.cache
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.exe
+C:\Users\ismai\OneDrive\Masaüstü\kodlar\C#\console dersleri\console dersi 3\consol dersi3\obj\Debug\consol dersi3.pdb
